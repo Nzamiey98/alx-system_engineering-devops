@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#using ssh o connec to a server
+
+ssh ubunu -i ~/.ssh/school
